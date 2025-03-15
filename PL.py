@@ -115,4 +115,4 @@ elif menu == "Statistics":
 
 # Footer
 st.markdown("---")
-st.caption("Built with ❤️ using Streamlit")
+st.caption("Made by ❤️ Basit Ali")
